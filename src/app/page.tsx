@@ -12,7 +12,7 @@ export default function Home() {
           Press <b>Up</b> and <b>Down</b> arrow keys to switch results.
         </p>
         <p className="text-xs text-red-400 ml-4 mb-2">
-          I couldn't syncronize tab and arrow keys. Use arrow keys instead of
+          I could not syncronize tab and arrow keys. Use arrow keys instead of
           tab please :(
         </p>
         <p>
